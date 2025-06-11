@@ -1,0 +1,17 @@
+qa-resources/
+│
+├── README.md
+├── test-cases/
+│   └── sample-test-case-template.xlsx
+├── bug-reports/
+│   └── bug-report-template.docx
+├── automation-scripts/
+│   └── selenium-login-test.py
+├── test-plans/
+│   └── sample-test-plan.docx
+├── tools-info/
+│   └── jira-guide.md
+├── interview-prep/
+│   └── qa-interview-questions.md
+├── api-testing/
+│   └── postman-collection.json
